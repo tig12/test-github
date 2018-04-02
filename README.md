@@ -1,9 +1,9 @@
 {::nomarkdown}
 
 
-<h1>Testing html in readme.md</h1>
+<h1>Testing html in README.md</h1>
 
-Does this woek ?
+Does this work ?
 
 <pre>
 Here is a piece of code 
@@ -11,13 +11,11 @@ Here is a piece of code
 in pre tag
 </pre>
 
-<hr>
+and <code>some code in code tag</code>
+<br>
+<br>Observe newlines, &lt;br> tags,
 
-... and <code>some code in code tag</code>
-
-
-
-
+<div style="color:orange; background:blue; padding:1em;">and div tags with css</div>
 
 
 {:/}
