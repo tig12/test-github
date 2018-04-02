@@ -10,11 +10,14 @@
     <li>
         <a href="#par2">Paragraph2</a>
     </li>
+    <li>
+        <a href="#sum-det">summary details tags</a>
+    </li>
 </ul>
 
 <h1><a name="par1">Testing html in README.md</a></h1>
 
-Does this work ?
+<code>h1 h2 h3 h4 h5 h6 h7 h8 br b i strong em a pre code img tt div ins del sup sub p ol ul table thead tbody tfoot blockquote dl dt dd kbd q samp var hr ruby rt rp li tr td th s strike summary details</code>
 
 <pre>
 Here is a piece of code 
@@ -47,6 +50,14 @@ and <code>some code in code tag</code>
 
 <img src="https://www.gnu.org/graphics/heckert_gnu.transp.small.png" alt="a test of image" />
 
+<h1><a name="sum-det">summary details tags</a></h1>
+summary details
+
+ <details>
+  <summary>Summary test</summary>
+  <p>A first p</p>
+  <p>A second p</p>
+</details> 
 
 
 {:/}
