@@ -4,7 +4,7 @@
     <li>
         <a href="#par1">Testing html in README.md</a>
         <ul>
-            <li><a href="tables">What about tables ?</a></li>
+            <li><a href="#tables">What about tables ?</a></li>
         </ul>
     </li>                                                                                             
     <li>
@@ -25,8 +25,8 @@ in pre tag
 and <code>some code in code tag</code>
 <br>
 <br>Observe newlines, &lt;br> tags,
-
-<div style="color:orange; background:blue; padding:1em;">and div tags with css</div>
+<br>And a simple br ?
+<div style="color:orange; background:blue;">and div tags with css</div>
 
 <h2><a name="tables">What about tables ?</a></h2>
 <table>
@@ -45,6 +45,7 @@ and <code>some code in code tag</code>
 
 <h1><a name="par2">Paragraph2</a></h1>
 
+<img src="https://www.gnu.org/graphics/heckert_gnu.transp.small.png" alt="a test of image" />
 
 
 
