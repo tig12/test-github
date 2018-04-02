@@ -29,7 +29,7 @@ and <code>some code in code tag</code>
 <br>
 <br>Observe newlines, &lt;br> tags,
 <br>And a simple br ?
-<div style="color:orange; background:blue;">and div tags with css</div>
+<div style="color:orange; background:blue; padding:2em;">and div tags with css</div>
 
 <h2><a name="tables">What about tables ?</a></h2>
 <table>
