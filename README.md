@@ -1,16 +1,5 @@
 {::nomarkdown}
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8" />
-    <title>README test</title>
-</head>
-
-<body>
-
-
-
 This repository is used to learn using github.
 <br>
 <br>My first question is : how-to avoid using github markdown syntax in README and similar files ?
@@ -82,8 +71,5 @@ summary details
   <p>A second p</p>
 </details> 
 
-
-</body>
-</html>
 
 {:/}
